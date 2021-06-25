@@ -1,0 +1,4 @@
+Hello from LearningWhilePracticing
+This is the Python Programming Course
+In this course, you'll learn a lot about python
+Hope you enjoy it
