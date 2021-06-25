@@ -1,0 +1,2 @@
+I am defining a class to continue my program in hope to finish it 
+False

@@ -1,0 +1,2 @@
+I am, defining a class. To continue my program in; hope to finish it 
+False:Right
